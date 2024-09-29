@@ -1,0 +1,17 @@
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-groq===0.2.0
+unstructured==0.15.12
+unstructured[pdf]==0.15.0
+unstructured[docx]==0.15.12
+faiss-cpu==1.8.0.post1
+chromadb==0.5.0
+langchain-chroma=0.1.4
+streamlit==1.38.0
+pandas==2.2.2
+python-dotenv==1.0.1
+transformers==4.44.2
+sentence-transformers==3.1.0
+nltk==3.9.1
+python-magic-bin==0.4.14
+langchain-unstructured==0.1.4
